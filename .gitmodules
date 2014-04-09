@@ -1,0 +1,3 @@
+[submodule "uwhpsc"]
+	path = uwhpsc
+	url = https://bitbucket.org/rjleveque/uwhpsc.git
